@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> Hello</title>
+    <style>
+        table, th ,td {
+            border: 2px solid black ;
+            border-collapse: collapse;
+            padding: 5px ;
+            
+        }
+        
+       
+    </style>
+    </head>
+    <body>
+        <table>
+           
+            <thead>
+                <tr>
+                    <th>ocean</th>
+                    <th>avg depth</th>
+                    <th>max depth</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td>pacific ocean</td>
+                <td>4,280 m</td>
+                <td>10,911 m</td>
+                </tr>
+                <tr>
+                    <td>atlantic ocean</td>
+                    <td>3,646 m</td>
+                    <td>8,486 m</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> Hello</title>
+    <style>
+        @media (min-width: 600px){
+            body {
+                background-color: brown;
+            }
+        }
+            @media (max-width:599px){
+                body {
+                    background-color: rgb(0, 72, 255);
+                }
+            
+        }
+    </style>
+    </head>
+    <body>
+        <h1>Welcome to my Wep Page!</h1>
+    </body>
+</html>
